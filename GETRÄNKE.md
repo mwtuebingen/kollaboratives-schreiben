@@ -23,6 +23,8 @@
 - American: *Whiskey --- Jack Daniel's Gentleman Jack*
 - Irish: *Whiskey --- Knappogue Castle*
 - Japanese: *Whiskey --- Yamazaki 12 Year Old Whisky*
+- Scotch: **Lagavulin --- 16 Years**
+- Scotch: **Laphoig -- PX**
 
 ### **Best whiskeys of 2019**, see website:
 - [https://www.townandcountrymag.com/leisure/drinks/g26801081/best-whiskey/]
@@ -46,7 +48,3 @@
 
 ## Sour
 - Schweppes Lemon Sour Soda
-## Milch
-- saure Milch
-- Ziegenmilch
-- Kuhmilch
