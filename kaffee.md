@@ -1,2 +1,1 @@
-
- 
+Heisser Kaffee
