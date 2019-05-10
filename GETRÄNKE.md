@@ -34,6 +34,7 @@
 ## Soda
 - From the tap (without bubbles)
 - From the SodaStream (with bubbles)
+- Bitter Lemon
 
 ### Buy your own SodaStream(R)
 - [https://sodastream.com/]
