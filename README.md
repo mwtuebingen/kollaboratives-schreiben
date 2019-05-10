@@ -7,7 +7,10 @@ Markdown ist eine einfache Auszeichnungssprache (*markup language*, siehe etwa H
 
 GitHub, welches eine Art "Dialekt" von Markup verwendet, stellt hier eine deutschsprachige Einführung bereit: [https://github.com/contao/docs/blob/master/manual/de/04-inhalte-verwalten/markdown.md](https://github.com/contao/docs/blob/master/manual/de/04-inhalte-verwalten/markdown.md)
 
-# Probetext
+# Mehr Informationen zu Git
 
+*Pro Git* von Scott Chacon und Ben Straub (2. Auflage, apress 2014), ein empfehlenswertes (englischsprachiges) Nachschlagewerk zu Git, ist kostenlos und ohne Registrierung erhältlich unter [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2). Es gibt auch Übersetzungen in mehrere Sprachen, die deutsche Fassung ist leider zum jetzigen Zeitpunkt (Mai 2019) noch sehr rudimentär.
+
+# Probetext
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praeset luptatum zzril delenit augue duis dolore te feugait nulla facilirit. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptuat.
