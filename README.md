@@ -1,5 +1,5 @@
 # kollaboratives-schreiben
-Das Repository für Workshop "Kollaboratives Schreiben mit GitHub" am 10.5.2019.
+Das Repository für Workshop "Kollaboratives Schreiben mit GitHub" am 10.5.2019. :-)
 
 # Markdown
 
